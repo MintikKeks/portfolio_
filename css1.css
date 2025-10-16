@@ -1,0 +1,33 @@
+ body {
+     text-align: center;
+     background-color: rgb(231, 181, 220);
+ }
+
+ h2 {
+     padding: 2%;
+ }
+
+ .pad {
+     padding: 1%;
+     border-radius: 15px;
+     border-color: aliceblue;
+     border-width: 5%;
+ }
+
+ .pad1 {
+     left: 10%;
+     right: 10%;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 16px;
+     color: rgb(64, 35, 70)
+ }
+
+
+ h3 {
+     font-family: "Noto Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: <weight>;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+ }
