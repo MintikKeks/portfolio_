@@ -1,4 +1,4 @@
- body {
+  body {
      text-align: center;
      background-color: rgb(231, 181, 220);
  }
@@ -17,17 +17,15 @@
  .pad1 {
      left: 10%;
      right: 10%;
-     font-family: 'Courier New', Courier, monospace;
-     font-size: 16px;
+     font-family: "Montserrat Alternates", sans-serif;
+     font-weight: 368;
+     font-style: normal;
      color: rgb(64, 35, 70)
  }
 
 
  h3 {
-     font-family: "Noto Sans", sans-serif;
-     font-optical-sizing: auto;
-     font-weight: <weight>;
+     font-family: "Montserrat Alternates", sans-serif;
+     font-weight: 428;
      font-style: normal;
-     font-variation-settings:
-         "wdth" 100;
  }
