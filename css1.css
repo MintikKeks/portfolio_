@@ -3,6 +3,10 @@
      background-color: rgb(231, 181, 220);
  }
 
+.hic1 {
+     height=120vh;
+      }
+
  h2 {
      padding: 2%;
  }
@@ -108,4 +112,5 @@
      height: 10vh;
      display: block;
  }
+
 
