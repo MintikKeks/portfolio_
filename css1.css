@@ -1,4 +1,4 @@
-  body {
+ body {
      text-align: center;
      background-color: rgb(231, 181, 220);
  }
@@ -8,24 +8,103 @@
  }
 
  .pad {
-     padding: 1%;
-     border-radius: 15px;
-     border-color: aliceblue;
-     border-width: 5%;
+
+     display: block;
+
  }
 
  .pad1 {
      left: 10%;
      right: 10%;
      font-family: "Montserrat Alternates", sans-serif;
-     font-weight: 368;
+     font-weight: 382;
      font-style: normal;
      color: rgb(64, 35, 70)
  }
 
 
- h3 {
+ h3,
+ h4 {
      font-family: "Montserrat Alternates", sans-serif;
      font-weight: 428;
      font-style: normal;
+ }
+
+
+ .price {
+     display: flex;
+     align-items: flex-start;
+     gap: 20px;
+     justify-content: center;
+     text-align: center;
+ }
+
+
+
+ .price-img {
+     width: 250px;
+     height: auto;
+ }
+
+ .pad12 {
+     max-width: 400px;
+ }
+
+ #id1 {
+     text-decoration: underline;
+ }
+
+ a {
+     text-decoration: none;
+     color: #9d4dbd
+ }
+
+ a:hover {
+     color: #aa59ca;
+     text-decoration: underline;
+ }
+
+
+ a:active {
+     color: #ffedfd;
+ }
+
+ a:visited {
+     color: #9b49b4;
+
+ }
+
+ .padpish1 {
+     font-family: "Noto Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 368;
+     font-style: normal;
+     font-variation-settings:
+         "wdth" 100;
+     color: rgb(64, 35, 70)
+ }
+
+ .pdp {
+     display: inline-flex;
+     align-items: center;
+     gap: 8px;
+     text-decoration: none;
+ }
+
+ .style1 {
+     border: 4px solid #9b49b4;
+     border-radius: 10px;
+
+     padding: 4%;
+     display: inline-block;
+     margin: 0 auto;
+
+ }
+
+ .pdp .icon {
+     width: 10vh;
+     padding-left: 2%;
+     padding-right: 2%;
+     height: 10vh;
+     display: block;
  }
