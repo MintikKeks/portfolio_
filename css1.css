@@ -13,7 +13,8 @@ body {
   .logo {
     max-width: 120px;
   }
-
+}
+     
  h2 {
      padding: 2%;
  }
@@ -119,6 +120,7 @@ body {
      height: 10vh;
      display: block;
  }
+
 
 
 
