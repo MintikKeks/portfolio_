@@ -9,6 +9,11 @@ body {
      height: auto;
       }
 
+@media (max-width: 600px) {
+  .logo {
+    max-width: 120px;
+  }
+
  h2 {
      padding: 2%;
  }
@@ -114,6 +119,7 @@ body {
      height: 10vh;
      display: block;
  }
+
 
 
 
