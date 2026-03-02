@@ -114,9 +114,9 @@ body {
 
 
  .price-img {
- margin-top: 5%;
-margin-bottom: 3%;  
+ align-items: center; 
  }
+
 
 
 
