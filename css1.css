@@ -34,10 +34,9 @@ body {
      font-style: normal;
  }
 
-
- .price {
+.price {
      display: flex;
-     align-items: flex-start;
+     align-items: center;
      gap: 20px;
      justify-content: center;
      text-align: center;
@@ -118,6 +117,7 @@ body {
  margin-top: 5%;
 margin-bottom: 3%;  
  }
+
 
 
 
