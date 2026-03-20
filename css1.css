@@ -1,12 +1,12 @@
-body {
+ body {
      text-align: center;
      background-color: rgb(231, 181, 220);
  }
 
-.hic1 {
+ .hic1 {
      width: 30%;
-}
-     
+ }
+
  h2 {
      padding: 2%;
  }
@@ -34,22 +34,21 @@ body {
      font-style: normal;
  }
 
-.price {
+ .price {
      display: flex;
      flex-direction: row;
      align-items: center;
      gap: 20px;
-     align-items: center; 
+     align-items: center;
      text-align: center;
  }
 
-#id24 {
+ #id24 {
      border-radius: 15%;
-     
-}
 
+ }
 
- .price-img { 
+ .price-img {
      width: 26vh;
      height: auto;
  }
@@ -68,7 +67,7 @@ body {
  }
 
  a:hover {
-     color: #aa59ca;
+     color: #bc5ee0;
      text-decoration: underline;
  }
 
@@ -99,12 +98,11 @@ body {
      text-decoration: none;
  }
 
-
  .style2 {
      border: 3px solid #9b49b4;
      border-radius: 10px;
 
-     padding: 3%;
+     padding: 2%;
      display: inline-block;
      margin: 0 auto;
  }
@@ -119,21 +117,21 @@ body {
 
  }
 
+
  .pdp .icon {
-     width: 10vh;
      padding-left: 2%;
      padding-right: 2%;
      height: 10vh;
      display: block;
  }
 
-
- .price-img {
- align-items: center; 
+ .ychcmm1 {
+     margin-left: 10%;
  }
 
-
-
+ .price-img {
+     align-items: center;
+ }
 
 
 
