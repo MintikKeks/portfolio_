@@ -1,12 +1,12 @@
- body {
+body {
      text-align: center;
      background-color: rgb(231, 181, 220);
  }
 
- .hic1 {
+.hic1 {
      width: 30%;
- }
-
+}
+     
  h2 {
      padding: 2%;
  }
@@ -34,21 +34,22 @@
      font-style: normal;
  }
 
- .price {
+.price {
      display: flex;
      flex-direction: row;
      align-items: center;
      gap: 20px;
-     align-items: center;
+     align-items: center; 
      text-align: center;
  }
 
- #id24 {
+#id24 {
      border-radius: 15%;
+     
+}
 
- }
 
- .price-img {
+ .price-img { 
      width: 26vh;
      height: auto;
  }
@@ -66,7 +67,7 @@
      color: #9d4dbd
  }
 
- a:hover {
+a:hover {
      color: #bc5ee0;
      text-decoration: underline;
  }
@@ -132,12 +133,6 @@
  .price-img {
      align-items: center;
  }
-
-
-
-
-
-
 
 
 
